@@ -1,31 +1,88 @@
 1
-00:00:00,200 --> 00:00:05,735
-SME Quote Dashboard. Which quotes came back signed this week, and what has been billed.
+00:00:00,106 --> 00:00:03,396
+SME Quote Dashboard. A quick tour of the daily work.
 
 2
-00:00:06,035 --> 00:00:19,001
-It used to be a shared Excel workbook. Only one person could refresh it, by hand, and it was slow. Now the dashboard pulls about fifteen files from SharePoint automatically, and anyone can refresh it in seconds.
+00:00:04,351 --> 00:00:06,361
+One. This week against target.
 
 3
-00:00:19,301 --> 00:00:24,845
-This view shows the value signed back this week, by entity, against the weekly target.
+00:00:07,120 --> 00:00:12,010
+The top shows this week's target, what has been signed back so far, and the shortfall.
 
 4
-00:00:25,145 --> 00:00:30,936
-Filter the signed-back quotes to one branch, and the whole table follows.
+00:00:12,262 --> 00:00:16,262
+Jump to this week or last week in one click, or pick any week or date.
 
 5
-00:00:31,236 --> 00:00:38,029
-Click any service to open it up by agent, client and task. Click a number to see the quotes behind it.
+00:00:20,503 --> 00:00:22,743
+Open an entity to see its departments.
 
 6
-00:00:38,329 --> 00:00:42,924
-Step back a week, and you can see at a glance whether the team beat the target.
+00:00:24,057 --> 00:00:25,907
+Two. Who signed back what.
 
 7
-00:00:43,224 --> 00:00:49,753
-Every refresh is stamped with its time, and the numbers are checked against the original workbook, row by row.
+00:00:26,665 --> 00:00:28,935
+Filter by branch, and by state.
 
 8
-00:00:50,053 --> 00:00:53,696
-SME Quote Dashboard. A demo with made-up data.
+00:00:36,048 --> 00:00:40,358
+Week and tax advisory work the same way. Reset brings everything back.
+
+9
+00:00:40,611 --> 00:00:42,581
+Three. What's in the pipeline.
+
+10
+00:00:43,340 --> 00:00:47,390
+Quotes start at Accepted. Add Issued to see what is still out with clients.
+
+11
+00:00:50,217 --> 00:00:52,167
+Open an entity, then an agent.
+
+12
+00:00:55,296 --> 00:00:57,636
+Click any number to see the quotes behind it.
+
+13
+00:01:02,195 --> 00:01:04,115
+Four. Which quotes to chase.
+
+14
+00:01:04,872 --> 00:01:08,732
+Set the chance filter to High, to focus on the likeliest wins.
+
+15
+00:01:10,021 --> 00:01:12,981
+Open a service, then an agent, then a client.
+
+16
+00:01:18,231 --> 00:01:20,441
+Click a number for the full list of quotes.
+
+17
+00:01:25,131 --> 00:01:28,011
+Five. Billing, receivables and collections.
+
+18
+00:01:28,770 --> 00:01:31,630
+Filter on any column, or search for a client.
+
+19
+00:01:36,265 --> 00:01:39,445
+Every table exports to CSV, in one click.
+
+20
+00:01:45,543 --> 00:01:47,783
+Six. Fresh numbers on demand.
+
+21
+00:01:48,542 --> 00:01:52,702
+Refresh now re-runs the numbers, and the stamp shows when they were last updated.
+
+22
+00:01:54,267 --> 00:01:58,817
+SME Quote Dashboard. Demo with made-up data. Made by Christine Lee.
+
