@@ -1,0 +1,31 @@
+1
+00:00:00,200 --> 00:00:05,735
+SME Quote Dashboard. Which quotes came back signed this week, and what has been billed.
+
+2
+00:00:06,035 --> 00:00:19,001
+It used to be a shared Excel workbook. Only one person could refresh it, by hand, and it was slow. Now the dashboard pulls about fifteen files from SharePoint automatically, and anyone can refresh it in seconds.
+
+3
+00:00:19,301 --> 00:00:24,845
+This view shows the value signed back this week, by entity, against the weekly target.
+
+4
+00:00:25,145 --> 00:00:30,936
+Filter the signed-back quotes to one branch, and the whole table follows.
+
+5
+00:00:31,236 --> 00:00:38,029
+Click any service to open it up by agent, client and task. Click a number to see the quotes behind it.
+
+6
+00:00:38,329 --> 00:00:42,924
+Step back a week, and you can see at a glance whether the team beat the target.
+
+7
+00:00:43,224 --> 00:00:49,753
+Every refresh is stamped with its time, and the numbers are checked against the original workbook, row by row.
+
+8
+00:00:50,053 --> 00:00:53,696
+SME Quote Dashboard. A demo with made-up data.
