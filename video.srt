@@ -1,88 +1,88 @@
 1
-00:00:00,106 --> 00:00:03,396
-SME Quote Dashboard. A quick tour of the daily work.
+00:00:00,000 --> 00:00:01,520
+SME Quote Dashboard.
 
 2
-00:00:04,351 --> 00:00:06,361
-One. This week against target.
+00:00:01,940 --> 00:00:03,570
+The daily work, in one minute.
 
 3
-00:00:07,120 --> 00:00:12,010
-The top shows this week's target, what has been signed back so far, and the shortfall.
+00:00:05,080 --> 00:00:06,450
+This week against target.
 
 4
-00:00:12,262 --> 00:00:16,262
-Jump to this week or last week in one click, or pick any week or date.
+00:00:06,960 --> 00:00:10,089
+Pick any week or date, jump to this week or last,
 
 5
-00:00:20,503 --> 00:00:22,743
-Open an entity to see its departments.
+00:00:10,089 --> 00:00:12,580
+and open an entity for its departments.
 
 6
-00:00:24,057 --> 00:00:25,907
-Two. Who signed back what.
+00:00:13,090 --> 00:00:14,520
+Who signed back what.
 
 7
-00:00:26,665 --> 00:00:28,935
-Filter by branch, and by state.
+00:00:15,010 --> 00:00:18,660
+Filter by branch, week, state or tax advisory.
 
 8
-00:00:36,048 --> 00:00:40,358
-Week and tax advisory work the same way. Reset brings everything back.
+00:00:19,940 --> 00:00:21,020
+What's in the pipeline.
 
 9
-00:00:40,611 --> 00:00:42,581
-Three. What's in the pipeline.
+00:00:21,420 --> 00:00:24,761
+Add Issued to Accepted, open an entity and an agent,
 
 10
-00:00:43,340 --> 00:00:47,390
-Quotes start at Accepted. Add Issued to see what is still out with clients.
+00:00:24,761 --> 00:00:27,010
+then click a number for the quotes.
 
 11
-00:00:50,217 --> 00:00:52,167
-Open an entity, then an agent.
+00:00:28,920 --> 00:00:30,200
+Which quotes to chase.
 
 12
-00:00:55,296 --> 00:00:57,636
-Click any number to see the quotes behind it.
+00:00:30,620 --> 00:00:32,926
+Set chance to High, open service,
 
 13
-00:01:02,195 --> 00:01:04,115
-Four. Which quotes to chase.
+00:00:32,926 --> 00:00:34,883
+agent and client, then click
 
 14
-00:01:04,872 --> 00:01:08,732
-Set the chance filter to High, to focus on the likeliest wins.
+00:00:34,883 --> 00:00:36,770
+a number for the full list.
 
 15
-00:01:10,021 --> 00:01:12,981
-Open a service, then an agent, then a client.
+00:00:39,270 --> 00:00:41,340
+Billing, receivables, collections.
 
 16
-00:01:18,231 --> 00:01:20,441
-Click a number for the full list of quotes.
+00:00:41,860 --> 00:00:45,001
+Filter any column, search for a client,
 
 17
-00:01:25,131 --> 00:01:28,011
-Five. Billing, receivables and collections.
+00:00:45,001 --> 00:00:46,450
+and export to CSV.
 
 18
-00:01:28,770 --> 00:01:31,630
-Filter on any column, or search for a client.
+00:00:48,370 --> 00:00:49,740
+Fresh numbers on demand.
 
 19
-00:01:36,265 --> 00:01:39,445
-Every table exports to CSV, in one click.
+00:00:50,150 --> 00:00:53,290
+Refresh now, and the stamp shows the last update.
 
 20
-00:01:45,543 --> 00:01:47,783
-Six. Fresh numbers on demand.
+00:00:53,810 --> 00:00:55,230
+SME Quote Dashboard.
 
 21
-00:01:48,542 --> 00:01:52,702
-Refresh now re-runs the numbers, and the stamp shows when they were last updated.
+00:00:55,660 --> 00:00:57,240
+Demo with made-up data.
 
 22
-00:01:54,267 --> 00:01:58,817
-SME Quote Dashboard. Demo with made-up data. Made by Christine Lee.
+00:00:57,670 --> 00:00:58,970
+Made by Christine Lee.
 
