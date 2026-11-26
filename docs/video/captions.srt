@@ -1,0 +1,88 @@
+1
+00:00:00,000 --> 00:00:01,520
+SME Quote Dashboard.
+
+2
+00:00:01,940 --> 00:00:03,570
+The daily work, in one minute.
+
+3
+00:00:05,080 --> 00:00:06,450
+This week against target.
+
+4
+00:00:06,960 --> 00:00:10,089
+Pick any week or date, jump to this week or last,
+
+5
+00:00:10,089 --> 00:00:12,580
+and open an entity for its departments.
+
+6
+00:00:13,090 --> 00:00:14,520
+Who signed back what.
+
+7
+00:00:15,010 --> 00:00:18,660
+Filter by branch, week, state or tax advisory.
+
+8
+00:00:19,940 --> 00:00:21,020
+What's in the pipeline.
+
+9
+00:00:21,420 --> 00:00:24,761
+Add Issued to Accepted, open an entity and an agent,
+
+10
+00:00:24,761 --> 00:00:27,010
+then click a number for the quotes.
+
+11
+00:00:28,920 --> 00:00:30,200
+Which quotes to chase.
+
+12
+00:00:30,620 --> 00:00:32,926
+Set chance to High, open service,
+
+13
+00:00:32,926 --> 00:00:34,883
+agent and client, then click
+
+14
+00:00:34,883 --> 00:00:36,770
+a number for the full list.
+
+15
+00:00:39,270 --> 00:00:41,340
+Billing, receivables, collections.
+
+16
+00:00:41,860 --> 00:00:45,001
+Filter any column, search for a client,
+
+17
+00:00:45,001 --> 00:00:46,450
+and export to CSV.
+
+18
+00:00:48,370 --> 00:00:49,740
+Fresh numbers on demand.
+
+19
+00:00:50,150 --> 00:00:53,290
+Refresh now, and the stamp shows the last update.
+
+20
+00:00:53,810 --> 00:00:55,230
+SME Quote Dashboard.
+
+21
+00:00:55,660 --> 00:00:57,240
+Demo with made-up data.
+
+22
+00:00:57,670 --> 00:00:58,970
+Made by Christine Lee.
+
